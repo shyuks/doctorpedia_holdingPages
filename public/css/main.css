@@ -877,14 +877,12 @@ a:hover {
     }
 } */
 
-@media (min-width: 1024px) {
-    .hero {
-        height: auto;
-        width: 100%;
-        display: flex;
-        align-items: center;
-        margin: auto
-    }
+.hero {
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: auto
 }
 
 .fullscreen-video-wrap {
