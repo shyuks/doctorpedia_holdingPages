@@ -915,7 +915,7 @@ a:hover {
         display: inline-block;
         text-align: center;
         width:100vw;
-        margin-top: 25%;
+        margin-top: -3%;
 	    animation: float 4s ease-in-out infinite;
     }
 
